@@ -8,7 +8,7 @@ const Profile = () => {
           <div className="relative z-2 max-w-512 max-lg:max-w-388">
           
             <h1 className="h1 text-p4">
-              Sudhir
+              Sudhir Rai- Developer
             </h1>
           
           </div>
